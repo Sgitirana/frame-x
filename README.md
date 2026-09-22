@@ -7,7 +7,7 @@ Baseado no template de landing page com carrossel de vídeos, galeria de imagens
 ## TODO antes de publicar
 
 - [ ] Substituir imagens e vídeos em `assets/img` e `assets/video` pelos materiais reais da Frame-X
-- [ ] Atualizar número de WhatsApp em `index.html`
-- [ ] Atualizar links de redes sociais no rodapé de `index.html`
-- [ ] Atualizar e-mail de contato em `assets/php/enviarEmail.php`
+- [x] Atualizar número de WhatsApp em `index.html`
+- [ ] Atualizar links de Facebook, YouTube e LinkedIn no rodapé de `index.html` (Instagram e site já preenchidos)
+- [x] Atualizar e-mail de contato em `assets/php/enviarEmail.php`
 - [ ] Atualizar logos de parceiros (`assets/img/sponsors*.png`) e os números da seção "Experiência"
